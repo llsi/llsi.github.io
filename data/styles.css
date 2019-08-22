@@ -63,6 +63,8 @@
 }
 ._表单禁用 {
 }
+._连接 {
+}
 .box_3 {
 }
 .label {
@@ -85,5 +87,51 @@
 .form_disabled {
 }
 .box_2 {
+}
+.box_11 {
+  font-size:16px;
+  color:#000000;
+}
+.form_hint {
+  color:#999999;
+}
+.example_script {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+}
+.image {
+}
+.tree_node {
+  text-align:left;
+}
+.image1 {
+}
+.form_hint1 {
+  color:#999999;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button {
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 textarea, select, input, button { outline: none; }
