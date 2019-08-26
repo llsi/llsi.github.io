@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="148px" height="148px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip17">
+    <mask fill="white" id="clip110">
       <path d="M 61 758  C 57.67 758  55 755.33  55 752  L 55 616  C 55 612.67  57.67 610  61 610  L 197 610  C 200.33 610  203 612.67  203 616  L 203 752  C 203 755.33  200.33 758  197 758  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -55 -610 )">
-    <path d="M 55 610  L 203 610  L 203 758  L 55 758  L 55 610  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip17)" />
-    <path d="M 65 620  L 193 620  L 193 748  L 65 748  L 65 620  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip17)" />
-    <path d="M 143.06 654.4  C 136.844 654.4  131.96 649.516  131.96 643.3  C 131.96 637.084  136.844 632.2  143.06 632.2  C 149.276 632.2  154.16 637.084  154.16 643.3  C 154.16 649.516  149.276 654.4  143.06 654.4  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip17)" />
-    <path d="M 69 745  L 69 678.45  L 99.25 648.2  L 141.6 672.4  L 165.8 666.35  L 190 672.4  L 190 745  L 69 745  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip17)" />
+    <path d="M 55 610  L 203 610  L 203 758  L 55 758  L 55 610  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip110)" />
+    <path d="M 65 620  L 193 620  L 193 748  L 65 748  L 65 620  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip110)" />
+    <path d="M 143.06 654.4  C 136.844 654.4  131.96 649.516  131.96 643.3  C 131.96 637.084  136.844 632.2  143.06 632.2  C 149.276 632.2  154.16 637.084  154.16 643.3  C 154.16 649.516  149.276 654.4  143.06 654.4  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip110)" />
+    <path d="M 69 745  L 69 678.45  L 99.25 648.2  L 141.6 672.4  L 165.8 666.35  L 190 672.4  L 190 745  L 69 745  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip110)" />
   </g>
 </svg>
